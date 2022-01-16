@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/countries-flags-app/static/css/main.c97694d6.chunk.css",
-    "main.js": "/countries-flags-app/static/js/main.08c43e81.chunk.js",
-    "main.js.map": "/countries-flags-app/static/js/main.08c43e81.chunk.js.map",
+    "main.js": "/countries-flags-app/static/js/main.e92c7c91.chunk.js",
+    "main.js.map": "/countries-flags-app/static/js/main.e92c7c91.chunk.js.map",
     "runtime-main.js": "/countries-flags-app/static/js/runtime-main.9a49b5e3.js",
     "runtime-main.js.map": "/countries-flags-app/static/js/runtime-main.9a49b5e3.js.map",
     "static/css/2.679831fc.chunk.css": "/countries-flags-app/static/css/2.679831fc.chunk.css",
-    "static/js/2.41b85e78.chunk.js": "/countries-flags-app/static/js/2.41b85e78.chunk.js",
-    "static/js/2.41b85e78.chunk.js.map": "/countries-flags-app/static/js/2.41b85e78.chunk.js.map",
+    "static/js/2.f89f80ca.chunk.js": "/countries-flags-app/static/js/2.f89f80ca.chunk.js",
+    "static/js/2.f89f80ca.chunk.js.map": "/countries-flags-app/static/js/2.f89f80ca.chunk.js.map",
     "index.html": "/countries-flags-app/index.html",
     "static/css/2.679831fc.chunk.css.map": "/countries-flags-app/static/css/2.679831fc.chunk.css.map",
     "static/css/main.c97694d6.chunk.css.map": "/countries-flags-app/static/css/main.c97694d6.chunk.css.map",
-    "static/js/2.41b85e78.chunk.js.LICENSE.txt": "/countries-flags-app/static/js/2.41b85e78.chunk.js.LICENSE.txt"
+    "static/js/2.f89f80ca.chunk.js.LICENSE.txt": "/countries-flags-app/static/js/2.f89f80ca.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.9a49b5e3.js",
     "static/css/2.679831fc.chunk.css",
-    "static/js/2.41b85e78.chunk.js",
+    "static/js/2.f89f80ca.chunk.js",
     "static/css/main.c97694d6.chunk.css",
-    "static/js/main.08c43e81.chunk.js"
+    "static/js/main.e92c7c91.chunk.js"
   ]
 }
